@@ -6,7 +6,7 @@ A Cyberdeck, one that looks fun!
 ## Overview
 
 I noticed that a lot of the designs for cyberdecks are one-offs that are pretty tailored for exactly one use. What if more of us allowed our designs to be starting points for someone else to bash together a kit?
-I ended up stuffing a Pine LORA radio, a better Wi-Fi module and a Raspberry Pi to control it all in this box, you may want to use a different SBC so I made the inside pretty roomy for you to play around. 
+I ended up stuffing a Pine LORA radio, a better Wi-Fi module and a Raspberry Pi 4 to control it all in this box, you may want to use a different SBC so I made the inside pretty roomy for you to play around. 
 
 ### Display
 

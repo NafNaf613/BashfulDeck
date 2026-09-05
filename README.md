@@ -27,5 +27,11 @@ There's an opening that fits most USB extensions, and another next to it that fi
 
 There's a 15mm hole that accommodates lots of different switches on the market
 
+There are 2 holes on the bottom piece that fit standard 1/4–36 thread SMA plugs 
 
+And that's it! 
+
+Have fun
+
+![Action Shot](/IMG_9529.JPG)
 ###

@@ -42,7 +42,7 @@ And that's it!<br/>
 
 Everything is in PLA, only the bottom needs supports.<br/>
 
-1x Bashful Base [file](/Bashful/BashfulBase.stl)<br/>
+1x Bashful Base [file](BashfulBase.stl)<br/>
 1x Bashful Bottom [file](/Bashful//BashfulBottom.stl)<br/>
 1x Bashful Top [file](/Bashful//BashfulTop.stl)<br/>
 2x Bashful Speaker Cover [file](/Bashful//BashfulSpeakerCover.stl)<br/>

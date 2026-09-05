@@ -58,4 +58,6 @@ Everything is in PLA, only the bottom needs supports.<br/>
 *ENJOY
 
 ![Action Shot](/images/IMG_9529.JPG)
-###
+
+### Want to change the design?
+Here's the .skp [file](/Bashful/BashfulDeck.3mf)<br/>

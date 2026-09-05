@@ -31,6 +31,11 @@ There are 2 holes on the bottom piece that fit standard 1/4–36 thread SMA plug
 
 And that's it! 
 
+### Links to parts:
+
+(Bashful Base [file](/Bashful%20Base.stl)
+(Bashful Base [file](/Bashful%20Base.stl)
+
 Have fun
 
 ![Action Shot](/IMG_9529.JPG)

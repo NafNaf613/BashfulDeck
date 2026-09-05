@@ -20,9 +20,12 @@ Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard
 
 ### Connectivity
 ![CAD Shot](/Bashful%20CAD2.png)
-#There's an opening that fits most USB extensions, and another next to it that fits common panel mount USBC cables
-![USBC Shot](/panelmountusbc.png)
+
+There's an opening that fits most USB extensions, and another next to it that fits common panel mount USBC cables
+
+[![USBC Shot](/panelmountusbc.png)](https://www.coolgear.com/product/usb-3-1-type-c-male-female-high-quality-panel-mount-cable "Link to buy one")
 
 There's a 15mm hole that accommodates lots of different switches on the market
+
 
 ###

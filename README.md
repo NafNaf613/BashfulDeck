@@ -18,6 +18,13 @@ Waveshare 7inch Capacitive Touch Screen LCD (C), 1024×600, HDMI, IPS, Low Power
 Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard
 [![Link to the Keyboard](InlandMK-47.jpg)](https://www.microcenter.com/product/661264/inland-47-keys-hot-swappable-rgb-wired-mechanical-keyboard "Link to buy one")
 
+###
+
+Speakers: 
+![Speaker Shot](/Speaker.jpg)
+Small Square Speaker 25*15mm 8ohm 2w Plastic Mini Wireless Speaker Driver
+(Buy one! [file](https://hiawathahobbies.com/products/miniatronics-digital-command-control-speakers-oval-15-x-25mm-8-ohm-1-watt-mnt6011501)
+
 ### Connectivity
 ![CAD Shot](/Bashful%20CAD2.png)
 
@@ -33,9 +40,14 @@ And that's it!
 
 ### Links to parts:
 
-(Bashful Base [file](/Bashful%20Base.stl)
-(Bashful Base [file](/Bashful%20Base.stl)
+Everything is in PLA, only the bottom needs supports.
 
+1x (Bashful Base [file](/BashfulBase.stl)
+1x (Bashful Bottom [file](/BashfulBottom.stl)
+1x (Bashful Top [file](/BashfulTop.stl)
+2x (Bashful Speaker Cover [file](/BashfulSpeakerCover.stl)
+
+Insert speakers
 Have fun
 
 ![Action Shot](/IMG_9529.JPG)

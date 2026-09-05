@@ -19,9 +19,10 @@ Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard
 [![Link to the Keyboard](InlandMK-47.jpg)](https://www.microcenter.com/product/661264/inland-47-keys-hot-swappable-rgb-wired-mechanical-keyboard "Link to buy one")
 
 ### Connectivity
+![CAD Shot](Bashful CAD.png)
 There's an opening that fits most USB extensions
-and another next to it that fits
-
+and another next to it that fits common panel mount USBC cables
+![USBC Shot](/panelmountusbc.png)
 
 There's a 15mm hole that accommodates lots of different switches on the market
 

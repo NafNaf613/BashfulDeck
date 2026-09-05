@@ -10,12 +10,12 @@ I ended up stuffing a Pine LORA radio, a better Wi-Fi module and a Raspberry Pi 
 
 ### Display
 
+![Image of LCD](/images/7cp-m_1.jpg)<br/>
 Waveshare 7inch Capacitive Touch Screen LCD (C), 1024×600, HDMI, IPS, Low Power
-[![Link to the LCD](/images/7cp-m_1.jpg)](https://www.waveshare.com/7inch-HDMI-LCD-C.htm "Link to buy one")
+Buy one [here!](https://www.waveshare.com/7inch-HDMI-LCD-C.htm "Link to buy one")
 
 ### Keyboard
 
-Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard
 ![Image of Keyboard](images/InlandMK-47.jpg)<br/>
 Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard<br/>
 Buy one [here!](https://www.microcenter.com/product/661264/inland-47-keys-hot-swappable-rgb-wired-mechanical-keyboard)
@@ -27,7 +27,6 @@ Buy one [here!](https://hiawathahobbies.com/products/miniatronics-digital-comman
 
 ### Connectivity
 ![CAD Shot](/images/Bashful%20CAD2.png)<br/>
-
 There's an opening that fits most USB extensions, and another next to it that fits common panel mount USBC cables<br/>
 
 ![USBC Shot](/images/panelmountusbc.png)<br/>

@@ -21,7 +21,7 @@ Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard
 ###
 
 Speakers: 
-![Speaker Shot](/Speaker.jpg)
+![Speaker Shot](/Speaker.jpg)<br/>
 Small Square Speaker 25*15mm 8ohm 2w Plastic Mini Wireless Speaker Driver
 Buy one [here!](https://hiawathahobbies.com/products/miniatronics-digital-command-control-speakers-oval-15-x-25mm-8-ohm-1-watt-mnt6011501)
 
@@ -43,9 +43,10 @@ And that's it!<br/>
 Everything is in PLA, only the bottom needs supports.<br/>
 
 1x Bashful Base [file](BashfulBase.stl)<br/>
-1x Bashful Bottom [file](/Bashful//BashfulBottom.stl)<br/>
-1x Bashful Top [file](/Bashful//BashfulTop.stl)<br/>
-2x Bashful Speaker Cover [file](/Bashful//BashfulSpeakerCover.stl)<br/>
+1x Bashful Bottom [file](BashfulBottom.stl)<br/>
+1x Bashful Top [file](BashfulTop.stl)<br/>
+2x Bashful Speaker Cover [file](BashfulSpeakerCover.stl)<br/>
+
 #### Building Steps:
 *Print everything out 
 *Insert the guts of your choice glue them safely in place

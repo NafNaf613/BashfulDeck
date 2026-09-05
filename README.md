@@ -30,8 +30,8 @@ Buy one [here!](https://hiawathahobbies.com/products/miniatronics-digital-comman
 There's an opening that fits most USB extensions, and another next to it that fits common panel mount USBC cables<br/>
 
 ![USBC Shot](/images/panelmountusbc.png)<br/>
-8in. USB 3.2 Gen 2 Type-C Male to Female High Quality Panel Mount Cable
-(https://www.coolgear.com/product/usb-3-1-type-c-male-female-high-quality-panel-mount-cable "Link to buy one")<br/>
+8in. USB 3.2 Gen 2 Type-C Male to Female High Quality Panel Mount Cable<br/>
+Buy one [here!](https://www.coolgear.com/product/usb-3-1-type-c-male-female-high-quality-panel-mount-cable)<br/>
 
 There's a 15mm hole that accommodates lots of different switches on the market<br/>
 

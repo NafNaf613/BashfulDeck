@@ -23,7 +23,7 @@ Inland 47-Keys Hot Swappable RGB Wired Mechanical Keyboard
 Speakers: 
 ![Speaker Shot](/Speaker.jpg)
 Small Square Speaker 25*15mm 8ohm 2w Plastic Mini Wireless Speaker Driver
-(Buy one! [file](https://hiawathahobbies.com/products/miniatronics-digital-command-control-speakers-oval-15-x-25mm-8-ohm-1-watt-mnt6011501)
+Buy one [here!](https://hiawathahobbies.com/products/miniatronics-digital-command-control-speakers-oval-15-x-25mm-8-ohm-1-watt-mnt6011501)
 
 ### Connectivity
 ![CAD Shot](/Bashful%20CAD2.png)
@@ -32,23 +32,27 @@ There's an opening that fits most USB extensions, and another next to it that fi
 
 [![USBC Shot](/panelmountusbc.png)](https://www.coolgear.com/product/usb-3-1-type-c-male-female-high-quality-panel-mount-cable "Link to buy one")
 
-There's a 15mm hole that accommodates lots of different switches on the market
+There's a 15mm hole that accommodates lots of different switches on the market<br/>
 
-There are 2 holes on the bottom piece that fit standard 1/4–36 thread SMA plugs 
+There are 2 holes on the bottom piece that fit standard 1/4–36 thread SMA plugs<br/>
 
-And that's it! 
+And that's it!<br/> 
 
-### Links to parts:
+### Links to Printed parts:
 
-Everything is in PLA, only the bottom needs supports.
+Everything is in PLA, only the bottom needs supports.<br/>
 
-1x (Bashful Base [file](/BashfulBase.stl)
-1x (Bashful Bottom [file](/BashfulBottom.stl)
-1x (Bashful Top [file](/BashfulTop.stl)
-2x (Bashful Speaker Cover [file](/BashfulSpeakerCover.stl)
-
-Insert speakers
-Have fun
+1x (Bashful Base [file](/BashfulBase.stl)<br/>
+1x (Bashful Bottom [file](/BashfulBottom.stl)<br/>
+1x (Bashful Top [file](/BashfulTop.stl)<br/>
+2x (Bashful Speaker Cover [file](/BashfulSpeakerCover.stl)<br/>
+#### Building Steps:
+*Print everything out 
+*Insert the guts of your choice glue them safely in place
+*Insert speakers
+*Glue the speaker covers on top of the speakers and connect them to your sound
+*Use 2.5mm x 5mm screws to screw everything in place
+*ENJOY
 
 ![Action Shot](/IMG_9529.JPG)
 ###
